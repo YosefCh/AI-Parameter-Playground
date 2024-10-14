@@ -26,10 +26,10 @@ The `class_version.py` file contains the implementation of the AI class. The cla
 The `LLM_Examples.ipynb` file provides examples of how to use the AI class. It demonstrates different ways to initialize the class and generate responses based on various parameters.
 
 ## Model Differences
-The `Different_Models.ipynb` file highlights the differences between models, top_p, and temperature. It randomly chooses between hundreds of possible parameter combinations of and shows the variation in results.
+The `Different_Models.ipynb` file highlights the differences between models, top_p, and temperature. It randomly chooses between hundreds of possible parameter combinations and shows the variation in the results.
 
 ## Top_p Parameter
-The `top_p.ipynb` file explains the top_p parameter in detail. It includes a detailed explanation of the concept along with examples of different models' responses based on varying top_p values, helping you understand its impact on text generation.
+The `top_p.ipynb` file explains the top_p parameter. It includes a detailed explanation of the concept along with examples of different models' responses based on varying top_p values, helping you understand its impact on text generation.
 
 ## Contributing
 We welcome contributions to this repository! If you have any suggestions, improvements, or new examples, please feel free to submit a pull request.
